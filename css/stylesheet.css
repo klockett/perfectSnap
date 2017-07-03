@@ -1,0 +1,67 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-bottom: 10px;
+}
+.jumbotron{
+background-image: url(../../docs/perfectsnap/images/wave.jpg);
+  min-height: 800px;
+}
+
+.intro{
+  text-align: center;
+  margin-top: -3%;
+  color: white;
+}
+
+.form  .clearfix  {
+padding-top: 4%;
+float: right;
+  margin-top: 5%;
+  margin-right: 6%;
+  max-width: 35%;
+  background-color:rgba(156, 156, 160, 0.32);
+;
+}
+.form h3{
+  margin-top: -15px;
+  padding-bottom: 10%;
+
+}
+.btn{
+  background-color: red;
+}
+ footer p {
+   display: inline;
+   text-align: center;
+   padding-left:4%;
+
+ }
+ .social{
+   float: right;
+   padding-right: 4%;
+   padding-bottom: 2%;
+ }
+
+ .navbar{
+   background-color: transparent;
+   border: transparent;
+ }
+ .nav, .navbar-bar .navbar-fnt{
+   float: right;
+   color: #000000;
+
+ }
+ .navbar-brand>img {
+   padding: -100px 1px;
+   margin-top: -45%;
+  max-width: 100%;
+  background-color: transparent;
+
+
+
+  /*probably not needed anymore, but doesn't hurt */
+  -o-object-fit: contain;
+  object-fit: contain;
+
+}
+

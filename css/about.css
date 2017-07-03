@@ -1,0 +1,124 @@
+.jumbotron{
+    background-image: url(../image/photo2about-2.png);
+    min-height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.intro{
+    text-align: center;
+    margin-top: -3%;
+    color: white;
+}
+
+
+
+
+.btn{
+    background-color: red;
+}
+
+
+
+.social{
+    float: right;
+    padding-right: -5%;
+    margin-right: -45%;
+    margin-top: -8%;
+    bottom: 0;
+}
+.navbar-header{
+    background-color: transparent;
+}
+
+.navbar .navbar-inverse .bg-inverse{
+    background-color: transparent;
+    border: black;
+    color: black;
+    float: right;
+}
+
+ .nav, .navbar-bar .nav-bar-fnt {
+    float: right;
+    color: transparent;
+    background-color: transparent;
+}
+
+ .navbar-inverse .bg-inverse {
+    color:white;
+    background-color: transparent;
+}
+.collapse .navbar-collapse{
+    background-color: transparent;
+color: white;
+}
+li a{
+    color: white;
+    font-weight: bold;
+
+}
+
+span .icon-bar .navbar-nav{
+    color: transparent;
+}
+
+.navbar-brand>img {
+    padding: -100px 1px;
+    margin-top: -45%;
+    max-width: 100%;
+    background-color: transparent;
+}
+/*p{
+    margin-top: 10%;
+    display: inline;
+    font-family: Helvetica;
+    font-size: medium;
+    padding-left:4%;
+
+
+}*/
+
+h2{
+    padding-left: 2%;
+}
+
+.bordered{
+
+    border: 2px solid black;
+    padding: 10px;
+    font-family: Helvetica;
+    font-size: medium;
+    margin-bottom: 35%;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 130px;
+    background-color: white;
+}
+
+
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 5px;
+}
+.container .text-muted {
+    margin: 20px 0;
+    text-align: center;
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+

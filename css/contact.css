@@ -1,0 +1,278 @@
+.jumbotron{
+    background-image: url(../image/sky.png);
+    min-height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.intro{
+    text-align: center;
+    margin-top: -3%;
+    color: white;
+}
+
+
+
+
+.btn{
+    background-color: red;
+}
+
+
+
+.social{
+    float: right;
+    padding-right: -5%;
+    margin-right: -45%;
+    margin-top: -8%;
+    bottom: 0;
+}
+.navbar-header{
+    background-color: transparent;
+}
+
+.navbar .navbar-inverse .bg-inverse{
+    background-color: transparent;
+    border: black;
+    color: black;
+    float: right;
+}
+
+.nav, .navbar-bar .nav-bar-fnt {
+    float: right;
+    color: transparent;
+    background-color: transparent;
+}
+
+.navbar-inverse .bg-inverse {
+    color:white;
+    background-color: transparent;
+}
+.collapse .navbar-collapse{
+    background-color: transparent;
+    color: white;
+}
+li a{
+    color: white;
+    font-weight: bold;
+
+}
+
+span .icon-bar .navbar-nav{
+    color: transparent;
+}
+
+.navbar-brand>img {
+    padding: -100px 1px;
+    margin-top: -45%;
+    max-width: 100%;
+    background-color: transparent;
+}
+/*p{
+    margin-top: 10%;
+    display: inline;
+    font-family: Helvetica;
+    font-size: medium;
+    padding-left:4%;
+
+
+}*/
+
+h2{
+    padding-left: 2%;
+}
+
+.bordered{
+    margin-left: 20%;
+    height: auto;
+    width: 50%;
+    border: 2px solid black ;
+    padding: 10px;
+    text-indent: 2%;
+    font-family: Helvetica;
+    font-size: medium;
+    margin-bottom: 35%;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 130px;
+    background-color: white;
+}
+
+
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 5px;
+}
+.container .text-muted {
+    margin: 20px 0;
+    text-align: center;
+}
+
+content-header{
+    font-family: 'Oleo Script', cursive;
+    color:#fcc500;
+    font-size: 45px;
+}
+
+.section-content{
+    text-align: center;
+
+}
+#contact{
+
+    font-family: 'Teko', sans-serif;
+    padding-top: 60px;
+    width: 100%;
+    width: 100vw;
+    height: 550px;
+    background: black; /* fallback for old browsers */
+    background: black; /* Chrome 10-25, Safari 5.1-6 */
+    background: black; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color : #fff;
+    margin-top: 5%;
+    margin-bottom: 30%;
+    padding-right: 50%;
+    padding-left: -20%;
+
+
+}
+.contact-section{
+    padding-top: 40px;
+}
+.contact-section .col-md-6{
+    width: 50%;
+}
+
+.container-1{
+    padding-top: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+    color: white;
+    background-color: black;
+    padding-bottom: 15%;
+
+
+}
+ form .form{
+     padding-top: 5%;
+     padding-bottom: 5%;
+     padding-left: 20%;
+     padding-right: 20%;
+ }
+.submit{
+    font-size: 1.1em;
+    float: right;
+    width: 150px;
+    background-color: red;
+    color: #fff;
+
+}
+.info{
+    display: inline;
+    margin-top: 90%;
+
+}
+p{
+margin-left:10% }
+
+/* Extra small devices (portrait phones, less than 576px)
+ No media query since this is the default in Bootstrap*/
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+
+    .info{
+        display: inline;
+        height: 100%;
+        float: left;
+        clear: left;
+        padding-top: 40%;
+        padding-right: 30%;
+        margin-right: -15%;
+        margin-top: 500%;
+
+    }
+
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+}
+    .info {
+        float: right;
+        display: inline;
+        clear: both;
+        margin-top: -90%;
+
+    }
+
+}
+@media (min-width: 768px) {
+    .info{
+        display: inline;
+        margin-top: 50%;
+        width: 100%;
+        height: 100%;
+        float: right;
+        clear: right;
+        margin-left: 55%;
+        padding-top: 50%;
+    }
+    #contact{
+        margin-bottom: 35%;
+    }
+}
+
+/*(Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+    .info{
+        display: inline;
+        margin-top: -100%;
+        width: 100%;
+        height: 100%;
+        float: left;
+        clear: right;
+        margin-left: 55%;
+    }
+
+
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+    .info{
+        display: inline;
+        margin-top: -100%;
+        width: 150%;
+        height: 100%;
+        float: left;
+        clear: right;
+        margin-left: 55%;
+        padding-bottom: 100%;
+    }
+
+
+
+
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */

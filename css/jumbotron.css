@@ -1,0 +1,96 @@
+.jumbotron{
+    background-image: url(../image/ocean.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 800px;
+}
+
+
+.intro{
+    text-align: center;
+    margin-top: -3%;
+    color: white;
+}
+
+.form  .clearfix  {
+    padding-top: 4%;
+    float: right;
+    margin-top: 5%;
+    margin-right: 6%;
+    max-width: 55%;
+    background-color:rgba(156, 156, 160, 0.32);
+}
+
+.form h3{
+    margin-top: -15px;
+    padding-bottom: 10%;
+}
+
+.btn{
+    background-color: red;
+}
+
+
+.social{
+    float: right;
+    padding-right: 4%;
+    padding-bottom: 2%;
+}
+
+.navbar-header{
+    background-color: transparent;
+}
+
+.navbar .navbar-inverse .bg-inverse{
+    background-color: transparent;
+    border: transparent;
+    color: black;
+    float: right;
+}
+
+.nav, .navbar-bar .nav-bar-fnt {
+    float: right;
+    color: transparent;
+    background-color: transparent;
+}
+
+.navbar-inverse .bg-inverse {
+    color:white;
+    background-color: transparent;
+}
+.collapse .navbar-collapse{
+    background-color: transparent;
+    color: white;
+}
+
+li a{
+    color: white;
+    font-weight: bold;
+
+
+}
+.navbar-brand>img {
+    padding: -100px 1px;
+    margin-top: -45%;
+    max-width: 100%;
+    background-color: transparent;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+footer p {
+    display: inline;
+    text-align: center;
+}
+
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 5px;
+}
+.container .text-muted {
+    margin: 20px 0;
+    text-align: center;
+}
