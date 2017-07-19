@@ -46,7 +46,9 @@ $result='<div class="alert alert-danger">Sorry there was an error sending your m
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Perfect Snap</title>
+    <meta name="description" content="All about photography from head shots to modeling, action to sports and nature to family portraits here at Perfectsnap we do it all to perfection.">
+
+    <title>Perfect Snap Photography</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

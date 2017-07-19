@@ -12,7 +12,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Perfect Snap</title>
+    <meta name="description" content="All about photography from head shots to modeling, action to sports and nature to family portraits here at Perfectsnap we do it all to perfection.">
+
+    <title>Perfect Snap Photography</title>
         <link rel="icon" href="favicon.ico">
 
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
@@ -99,6 +101,16 @@
                     $stmt->bindParam(':useremail', $userEmail);
                     //execute insertion
                     $stmt->execute();
+                    if (isset($_POST['user-name'])) {
+
+                        $name = "user-name";
+
+                        echo "<script type='text/javascript'>alert('You have Signed-Up Successfully Thank you!')</script>";
+                    }
+                    else
+                    {
+                        echo "<script type='text/javascript'>alert('failed!')</script>";
+                    }
                 } //end request method conditional
                 ?>
 
