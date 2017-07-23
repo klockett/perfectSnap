@@ -11,6 +11,10 @@
 * Password:root
 * Database:perfectsnap
 * Port:8889
+* Step#1
+* <a href="http://imgur.com/Sw9uiCB"><img src="http://i.imgur.com/Sw9uiCBm.png" title="source: imgur.com" /></a>
+* Step#2
+* <a href="http://imgur.com/4nLmle8"><img src="http://i.imgur.com/4nLmle8m.png" title="source: imgur.com" /></a>
 ### MAMP SETUP
 * Download MAMP@ https://www.mamp.info/en/
 * Step#1
