@@ -18,7 +18,7 @@
 * Step#2
 * <a href="http://imgur.com/Gcfgfc5"><img src="http://i.imgur.com/Gcfgfc5m.png" title="source: imgur.com" /></a>
 * Step#3
-*<a href="http://imgur.com/nL8sPyd"><img src="http://i.imgur.com/nL8sPydm.png" title="source: imgur.com" /></a>
+* <a href="http://imgur.com/nL8sPyd"><img src="http://i.imgur.com/nL8sPydm.png" title="source: imgur.com" /></a>
 * Step#4
 * 
 
