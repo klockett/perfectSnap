@@ -20,7 +20,8 @@
 * Step#3
 * <a href="http://imgur.com/nL8sPyd"><img src="http://i.imgur.com/nL8sPydm.png" title="source: imgur.com" /></a>
 * Step#4
-* 
+* Please Select My Website from the top tabs
+* <a href="http://imgur.com/jPZWRp6"><img src="http://i.imgur.com/jPZWRp6m.png" title="source: imgur.com" /></a>
 
 
 
