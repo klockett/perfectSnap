@@ -136,8 +136,7 @@
 
 </section>
  <section class="intro">
-        <h1>Site is Under Construction</h1>
-
+     <h1>Make a Statement without saying a Word</h1>
 </section>
     </div>
 <footer>
