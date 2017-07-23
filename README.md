@@ -24,10 +24,9 @@
 * <a href="http://imgur.com/jPZWRp6"><img src="http://i.imgur.com/jPZWRp6m.png" title="source: imgur.com" /></a>
 
 
-
-
-
 ### Github
 * Download perfectsnap folder to Computer
+* Place the Perfectsnap folder in the htdocs folder in the MAMP Folder example of above in Step#4 in MAMP Setup
+
 
 
