@@ -13,6 +13,7 @@
 * Port:8889
 ### MAMP SETUP
 * Download MAMP@ https://www.mamp.info/en/
+* <a href="http://imgur.com/Gcfgfc5"><img src="http://i.imgur.com/Gcfgfc5h.png" title="source: imgur.com" /></a>
 
 
 
