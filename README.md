@@ -25,7 +25,7 @@
 
 
 ### Github
-* Download perfectsnap folder to Computer
+* Download perfectsnap folder to Computer from clone/Download green Button
 * Place the Perfectsnap folder once downloaded from github in the htdocs folder in the MAMP Folder example of above in Step#4 in MAMP Setup
 * After everything is in Place make sure MAMP Server is Running 
 * Make sure Database (perfectsnap) is created (note:perfectsnap db was exported and you will find file above)
