@@ -11,4 +11,6 @@
 * Database:perfectsnap
 * Port:8889
 ### MAMP SETUP
+* Download MAMP@ https://www.mamp.info/en/
+
 
