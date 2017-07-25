@@ -10,7 +10,7 @@
 * UserName:root
 * Password:root
 * Database:perfectsnap
-* Port:8889
+* Port:3306
 * Step#1
 * <a href="http://imgur.com/Sw9uiCB"><img src="http://i.imgur.com/Sw9uiCBm.png" title="source: imgur.com" /></a>
 * Step#2
