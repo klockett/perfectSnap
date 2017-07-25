@@ -2,7 +2,7 @@
 ## Requirements
 * mYSQL 
 * MAMP
-* (Note: If you on a local Server)
+* (Note: If you on a local Server/ Website Originally is hosted by Godaddy)
 ### mySQL SETUP
 * Download SQLPro@ https://www.sequelpro.com
 * Name:Local
