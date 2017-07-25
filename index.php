@@ -56,7 +56,6 @@
     </script>
 </head>
 <body>
-<?php include_once("analyticstracking.php") ?>
 <div class="jumbotron">
     <div class="container">
         <nav>
@@ -84,9 +83,9 @@
 
                 <?php
                 //store db username
-                $user = 'klockett';
+                $user = 'root';
                 //store db password
-                $pass = 'Kintay1014';
+                $pass = 'root';
                 //instantiate pdo object, passing credentials as well as setting host, dbname, and port number
                 $dbh = new PDO('mysql:host=localhost;dbname=perfectsnap;port=3306', $user, $pass);
                 //if request method is post
