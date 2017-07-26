@@ -31,8 +31,11 @@
 ### Github
 * Download perfectsnap folder to Computer from clone/Download green Button <a href="http://imgur.com/8hL7eeX"><img src="http://i.imgur.com/8hL7eeXt.png" title="source: imgur.com" /></a>
 * Place the Perfectsnap folder once downloaded from github in the htdocs folder in the MAMP Folder example of above in Step#4 in MAMP Setup
-* After everything is in Place make sure MAMP Server is Running 
-* Make sure Database (perfectsnap) is created (note:perfectsnap db was exported and you will find file above)
+### To Run Website
+* After everything is in Place make sure MAMP Server is Running by clicking "Start server"
+* Make sure Database (perfectsnap) is created (note:perfectsnap db was exported and you will find file above Sql Dump)
+* Once Everything is followed open MAMP and click on "Open WebStart Page"
+* Finally click on "My Website"
 
 
 
