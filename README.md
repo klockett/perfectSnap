@@ -1,4 +1,4 @@
-# perfectSnap Instructions to Run website
+# perfectSnap Instructions to Run website:
 ## Requirements
 * mYSQL 
 * MAMP
@@ -36,6 +36,7 @@
 * Make sure Database (perfectsnap) is created (note:perfectsnap db was exported and you will find file above Sql Dump)
 * Once Everything is followed open MAMP and click on "Open WebStart Page"
 * Finally click on "My Website"
+* <a href="http://imgur.com/V3Zy38b"><img src="http://i.imgur.com/V3Zy38bm.png" title="source: imgur.com" /></a>
 
 
 
